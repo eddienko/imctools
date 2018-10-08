@@ -1,3 +1,5 @@
 nose
 sphinx
 numpy
+ytest-datafiles
+tifffile
